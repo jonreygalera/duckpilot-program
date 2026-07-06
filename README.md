@@ -5,6 +5,9 @@
 ![DuckPilot Cover](./assets/image.png)
 
 # DuckPilot: The Ultimate Developer Workflow Manager
+
+**Website:** [https://duck-pilot.netlify.app/](https://duck-pilot.netlify.app/)
+
 ## What is DuckPilot?
 
 DuckPilot is a comprehensive Windows desktop application built with Flutter, specifically designed to streamline developer workflows. It serves as a unified dashboard for managing local software projects, directly interacting with Windows Subsystem for Linux (WSL), and simplifying project creation through dynamic scaffolding and automated templates.
